@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "OAS AI ",
+  "version": "1.10",
+  "description": "",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://oas.lpu.in/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "128": "hack.png"
+    }
+  }
+}
