@@ -8,6 +8,9 @@
 
 Here’s what the OAS AI Extension offers:
 
+## 😊 version 
+ OAS AI 1.10
+
 ### 🧠 AI-Powered Assistance
 - Get instant help with writing, coding, or explanations powered by OpenAI.
 - Press `F2` to activate the assistant and receive smart answers.
@@ -36,11 +39,8 @@ Here’s what the OAS AI Extension offers:
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** avaScript  
 - **Browser:** Chrome (Manifest V3)  
 - **AI Model:** OpenAI GPT-3.5 / GPT-4
 
 ---
-
-## 📁 Folder Structure
-
